@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vacation Spots</string>
+    <string name="user_options_task">user_options_task</string>
+    <string name="place_name">Place Name</string>
+</resources>
